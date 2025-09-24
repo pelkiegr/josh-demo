@@ -1,6 +1,7 @@
 # JOSH Filtering Demo
 
 This demo shows how to use [JOSH](https://josh-project.github.io/josh/) to filter Git repositories and create modular bundles.
+<img width="1358" height="468" alt="image" src="https://github.com/user-attachments/assets/27ceb60a-36f8-45f0-9d4f-a558bc108009" />
 
 ## 1. Start JOSH Proxy
 
