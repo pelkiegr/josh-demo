@@ -66,6 +66,6 @@ mkdir combined && cd combined
 git init
 git pull ../deliverables.bundle main
 git log --oneline
-git pull ../demo-code.bundle main --allow-unrelated-histories
+git pull ../demo-code.bundle main
 git log --oneline --graph
 ```
